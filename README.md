@@ -25,7 +25,7 @@ First, visit the official Mendeley page to download the Z1+ package:
 
 [Z1+ Package - Mendeley Data](https://data.mendeley.com/datasets/m425t6xtwr/1)
 
-This package accompanies the work titled *"The Z1+ package: Shortest multiple disconnected path for the analysis of entanglements in macromolecular systems."* Be sure to thoroughly read the accompanying paper before using the tool.
+This package accompanies the work titled *"The Z1+ package: Shortest multiple disconnected path for the analysis of entanglements in macromolecular systems."* by Martin Kröger, Joseph D. Dietz, Robert S. Hoy, and Clarisse Luap. Be sure to thoroughly read the accompanying paper before using the tool.
 
 ---
 
