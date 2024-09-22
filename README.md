@@ -6,7 +6,7 @@
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Installation Steps](#installation-steps)
-  - [Additional Tips](#additional-tips-for-northwestern-university-students-with-quest-access)
+  - [Additional Tips for Northwestern Students with QUEST access](#additional-tips-for-northwestern-university-students-with-quest-access)
 - [Usage](#usage)
 - [Performing Primitive Path Analysis (PPA)](#performing-primitive-path-analysis-ppa)
 - [Visualization in OVITO](#visualization-in-ovito)
