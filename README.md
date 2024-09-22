@@ -124,7 +124,7 @@ Below is an example of a `reformatted_data.txt` file generated from a polymer me
 - The coordinates in the file are **unwrapped**, meaning they may extend beyond the original simulation box.
 - The **simulation cell boundaries** are not preserved in this output, as the focus is on the primitive paths.
 
-![Example Image](images/example_image.png)
+![Example Image](images/example.png)
 
 ---
 
