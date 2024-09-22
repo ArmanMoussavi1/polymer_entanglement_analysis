@@ -1,5 +1,20 @@
 # Polymer Entanglement Analysis
 
+## Table of Contents
+
+- [Using the Z1+ Package for Polymer Entanglement Analysis](#using-the-z1-package-for-polymer-entanglement-analysis)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Installation Steps](#installation-steps)
+  - [Additional Tips](#additional-tips-for-northeastern-university-students-with-quest-access)
+- [Usage](#usage)
+- [Performing Primitive Path Analysis (PPA)](#performing-primitive-path-analysis-ppa)
+- [Visualization in OVITO](#visualization-in-ovito)
+- [Example](#example)
+- [License](#license)
+
+---
+
 ## Using the Z1+ Package for Polymer Entanglement Analysis
 
 This repository provides guidance on using the **Z1+ package** for analyzing polymer entanglements. The Z1+ tool enables detailed analysis of entanglements within polymer networks.
